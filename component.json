@@ -9,9 +9,6 @@
     "styles": [
         "./jquery.timepicker.css"
     ],
-    "dependencies": {
-        "jquery": ">=1.7"
-    },
     "repository": "mirecks/jquery-timepicker",
     "license": "MIT"
 }
